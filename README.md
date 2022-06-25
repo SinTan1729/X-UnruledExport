@@ -8,6 +8,8 @@ Create a directory `/usr/share/xournalapp/plugins/UnruledExport/` and place `plu
 
 # Notes
 
+- Doesn't work with the latest stable release of Xournal++ yet, as the `export` api hasn't shipped. You'll need to build from source in order to use it.
+
 - [Xournal++](https://github.com/xournalpp/xournalpp/) is an excellent app for hand note-taking.
 
 - This is basically a modified version of [Export Plugin](https://github.com/xournalpp/xournalpp/tree/master/plugins/Export).
